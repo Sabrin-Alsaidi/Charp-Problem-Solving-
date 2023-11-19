@@ -1,0 +1,15 @@
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /ProblemSolving Solution/ProblemSolving/bin/Debug/net6.0/ProblemSolving
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /ProblemSolving Solution/ProblemSolving/bin/Debug/net6.0/ProblemSolving.deps.json
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /ProblemSolving Solution/ProblemSolving/bin/Debug/net6.0/ProblemSolving.runtimeconfig.json
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /ProblemSolving Solution/ProblemSolving/bin/Debug/net6.0/ProblemSolving.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /ProblemSolving Solution/ProblemSolving/bin/Debug/net6.0/ProblemSolving.pdb
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /ProblemSolving Solution/ProblemSolving/obj/Debug/net6.0/ProblemSolving.csproj.AssemblyReference.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /ProblemSolving Solution/ProblemSolving/obj/Debug/net6.0/ProblemSolving.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /ProblemSolving Solution/ProblemSolving/obj/Debug/net6.0/ProblemSolving.AssemblyInfoInputs.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /ProblemSolving Solution/ProblemSolving/obj/Debug/net6.0/ProblemSolving.AssemblyInfo.cs
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /ProblemSolving Solution/ProblemSolving/obj/Debug/net6.0/ProblemSolving.csproj.CoreCompileInputs.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /ProblemSolving Solution/ProblemSolving/obj/Debug/net6.0/ProblemSolving.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /ProblemSolving Solution/ProblemSolving/obj/Debug/net6.0/refint/ProblemSolving.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /ProblemSolving Solution/ProblemSolving/obj/Debug/net6.0/ProblemSolving.pdb
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /ProblemSolving Solution/ProblemSolving/obj/Debug/net6.0/ProblemSolving.genruntimeconfig.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /ProblemSolving Solution/ProblemSolving/obj/Debug/net6.0/ref/ProblemSolving.dll
